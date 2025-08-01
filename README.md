@@ -64,14 +64,27 @@ The game is responsive and works well on:
 
 ---
 
-## 🛠️ Run Locally
+## 🚀 Live Demo
 
--Open index.html in your browser.
+[Click here to view the live project](https://mukulnegi2004.github.io/Grabzy-E-Commerce-Website/)
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone or download the repository
+2. Make sure all files (HTML, CSS, JS) are in the same structure
+3. Open `index.html` in your browser
+4. Start adding your tasks!
 
 ---
 
-## 🌐 Live Demo
+## 📬 Connect with Me
 
-🔗 [Play Now](#) *(Add your GitHub Pages or Netlify link here once hosted)*
+- 💼 [GitHub](https://github.com/mukulnegi2004)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 📫 Email: mannunegi126@gmail.com
 
 ---
+
+⭐ If you like this project, feel free to star it and give feedback!
