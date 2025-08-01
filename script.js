@@ -84,10 +84,8 @@ function reset(){
     gameSeq = [];
     userSeq = [];
     level = 0;
-    // Reattach event listeners for restarting
-    document.addEventListener("keydown", startGame);
-    document.addEventListener("touchend", startGame, { once: true });
 }
+
 
 
 
