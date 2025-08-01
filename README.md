@@ -66,7 +66,7 @@ The game is responsive and works well on:
 
 ## 🚀 Live Demo
 
-[Click here to view the live project](https://mukulnegi2004.github.io/Grabzy-E-Commerce-Website/)
+[Click here to view the live project]( https://mukulnegi2004.github.io/simon-says-game/)
 
 ---
 
