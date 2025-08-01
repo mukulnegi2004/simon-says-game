@@ -35,9 +35,6 @@ body{
 h1{
     font-size: 3.5rem;
 }
-.display{
-    display: none;
-}
 
 @media (max-width: 477px){
     .btn{
@@ -51,3 +48,4 @@ h1{
     }
 
 }
+
