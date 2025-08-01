@@ -6,13 +6,15 @@ let btn = ["yellow","red","purple","green"];
 let started = false;
 let level = 0;
 
-let h2 = document.querySelector("h2");      
+let h2 = document.querySelector("h2");   
+let btncontainer = document.querySelector(".btn-container");
 
 document.addEventListener("keypress", startGame);
 document.addEventListener("touchend", startGame, { once: true }); 
 
 function startGame() {
     if (!started) {
+        btncontainer.classList.remove("display");
         started = true;
         levelUp();
     }
@@ -84,7 +86,9 @@ function reset(){
     gameSeq = [];
     userSeq = [];
     level = 0;
+    btncontainer.classList.add("display");
 }
+
 
 
 
