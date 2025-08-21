@@ -25,13 +25,13 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **Vanilla J
 ---
 
 ## 📁 File Structure
-
+```
 simon-says-game/
 ├── index.html # Main HTML structure
 ├── style.css # Styling and button animations
 ├── script.js # Game logic
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🎨 Button Colors
@@ -81,7 +81,7 @@ The game is responsive and works well on:
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
